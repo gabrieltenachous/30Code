@@ -1,0 +1,284 @@
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\30Code.dll.config
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\30Code.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\30Code.pdb
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\csc.exe
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\csc.exe.config
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\csc.rsp
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\csi.exe
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\csi.exe.config
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\csi.rsp
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Collections.Immutable.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.IO.FileSystem.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.ValueTuple.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\vbc.exe
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\vbc.exe.config
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\vbc.rsp
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\VBCSCompiler.exe
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\VBCSCompiler.exe.config
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\System.Web.Helpers.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\System.Web.Mvc.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\System.Web.Optimization.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\System.Web.Razor.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\System.Web.WebPages.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\System.Web.WebPages.Deployment.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\System.Web.WebPages.Razor.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\Newtonsoft.Json.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\Antlr3.Runtime.pdb
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\pt-br\System.Web.Razor.resources.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\obj\Debug\30Code.csprojAssemblyReference.cache
+D:\Usuario\Documentos\GitHub\30Code\30Code\obj\Debug\30Code.csproj.CoreCompileInputs.cache
+D:\Usuario\Documentos\GitHub\30Code\30Code\obj\Debug\30Code.csproj.CopyComplete
+D:\Usuario\Documentos\GitHub\30Code\30Code\obj\Debug\30Code.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\obj\Debug\30Code.pdb
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\EntityFramework.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\EntityFramework.SqlServer.xml
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Buffers.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Memory.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Numerics.Vectors.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Usuario\Documentos\GitHub\30Code\30Code\obj\Debug\_30Code.Migrations.CriacaoBanco.resources
+D:\Usuario\Documentos\GitHub\30Code\30Code\obj\Debug\30Code.csproj.GenerateResource.cache
+C:\Users\rossi\Desktop\30Code\30Code\obj\Debug\30Code.csprojAssemblyReference.cache
+C:\Users\rossi\Desktop\30Code\30Code\obj\Debug\_30Code.Migrations.CriacaoBanco.resources
+C:\Users\rossi\Desktop\30Code\30Code\obj\Debug\30Code.csproj.GenerateResource.cache
+C:\Users\rossi\Desktop\30Code\30Code\obj\Debug\30Code.csproj.CoreCompileInputs.cache
+C:\Users\rossi\Desktop\30Code\30Code\obj\Debug\30Code.dll
+C:\Users\rossi\Desktop\30Code\30Code\obj\Debug\30Code.pdb
+C:\Users\rossi\Desktop\30Code\30Code\bin\30Code.dll.config
+C:\Users\rossi\Desktop\30Code\30Code\bin\30Code.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\30Code.pdb
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\csc.exe
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\csc.exe.config
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\csc.rsp
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\csi.exe
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\csi.exe.config
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\csi.rsp
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Buffers.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Memory.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\System.ValueTuple.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\vbc.exe
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\vbc.exe.config
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\vbc.rsp
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\VBCSCompiler.exe
+C:\Users\rossi\Desktop\30Code\30Code\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rossi\Desktop\30Code\30Code\bin\Antlr3.Runtime.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\BouncyCastle.Crypto.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\EntityFramework.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\EntityFramework.SqlServer.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\Google.Protobuf.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\K4os.Compression.LZ4.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\K4os.Hash.xxHash.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\MySql.Data.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\MySql.Data.Entity.EF6.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\Newtonsoft.Json.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\Renci.SshNet.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Buffers.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Memory.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Numerics.Vectors.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Helpers.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Mvc.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Optimization.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Razor.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.WebPages.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.WebPages.Razor.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\WebGrease.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\EntityFramework.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\EntityFramework.SqlServer.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\Google.Protobuf.pdb
+C:\Users\rossi\Desktop\30Code\30Code\bin\Google.Protobuf.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\K4os.Compression.LZ4.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\K4os.Hash.xxHash.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\Newtonsoft.Json.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\Renci.SshNet.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Buffers.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Memory.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Numerics.Vectors.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Helpers.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Mvc.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Optimization.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.Razor.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.WebPages.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\System.Web.WebPages.Razor.xml
+C:\Users\rossi\Desktop\30Code\30Code\bin\Antlr3.Runtime.pdb
+C:\Users\rossi\Desktop\30Code\30Code\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rossi\Desktop\30Code\30Code\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\rossi\Desktop\30Code\30Code\obj\Debug\30Code.csproj.CopyComplete
+C:\Users\rossi\Desktop\30Code\bin\30Code.dll.config
+C:\Users\rossi\Desktop\30Code\bin\30Code.dll
+C:\Users\rossi\Desktop\30Code\bin\30Code.pdb
+C:\Users\rossi\Desktop\30Code\bin\roslyn\csc.exe
+C:\Users\rossi\Desktop\30Code\bin\roslyn\csc.exe.config
+C:\Users\rossi\Desktop\30Code\bin\roslyn\csc.rsp
+C:\Users\rossi\Desktop\30Code\bin\roslyn\csi.exe
+C:\Users\rossi\Desktop\30Code\bin\roslyn\csi.exe.config
+C:\Users\rossi\Desktop\30Code\bin\roslyn\csi.rsp
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rossi\Desktop\30Code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Buffers.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Memory.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rossi\Desktop\30Code\bin\roslyn\vbc.exe
+C:\Users\rossi\Desktop\30Code\bin\roslyn\vbc.exe.config
+C:\Users\rossi\Desktop\30Code\bin\roslyn\vbc.rsp
+C:\Users\rossi\Desktop\30Code\bin\roslyn\VBCSCompiler.exe
+C:\Users\rossi\Desktop\30Code\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rossi\Desktop\30Code\bin\System.Web.Helpers.xml
+C:\Users\rossi\Desktop\30Code\bin\System.Web.Mvc.xml
+C:\Users\rossi\Desktop\30Code\bin\System.Web.Optimization.xml
+C:\Users\rossi\Desktop\30Code\bin\System.Web.Razor.xml
+C:\Users\rossi\Desktop\30Code\bin\System.Web.WebPages.xml
+C:\Users\rossi\Desktop\30Code\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rossi\Desktop\30Code\bin\System.Web.WebPages.Razor.xml
+C:\Users\rossi\Desktop\30Code\bin\Newtonsoft.Json.xml
+C:\Users\rossi\Desktop\30Code\bin\Antlr3.Runtime.pdb
+C:\Users\rossi\Desktop\30Code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rossi\Desktop\30Code\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\rossi\Desktop\30Code\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\rossi\Desktop\30Code\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\rossi\Desktop\30Code\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\rossi\Desktop\30Code\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\rossi\Desktop\30Code\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rossi\Desktop\30Code\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\rossi\Desktop\30Code\obj\Debug\30Code.csprojAssemblyReference.cache
+C:\Users\rossi\Desktop\30Code\obj\Debug\30Code.csproj.CoreCompileInputs.cache
+C:\Users\rossi\Desktop\30Code\obj\Debug\30Code.csproj.CopyComplete
+C:\Users\rossi\Desktop\30Code\obj\Debug\30Code.dll
+C:\Users\rossi\Desktop\30Code\obj\Debug\30Code.pdb
+C:\Users\rossi\Desktop\30Code\obj\Debug\_30Code.Migrations.CriacaoBanco.resources
+C:\Users\rossi\Desktop\30Code\obj\Debug\30Code.csproj.GenerateResource.cache
+C:\Users\rossi\Desktop\30Code\bin\EntityFramework.xml
+C:\Users\rossi\Desktop\30Code\bin\EntityFramework.SqlServer.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\30Code.dll.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\30Code.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\30Code.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\csc.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\csc.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\csc.rsp
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\csi.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\csi.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\csi.rsp
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Buffers.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Memory.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\System.ValueTuple.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\vbc.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\vbc.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\vbc.rsp
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\VBCSCompiler.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\EntityFramework.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\EntityFramework.SqlServer.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\Newtonsoft.Json.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\System.Web.Helpers.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\System.Web.Mvc.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\System.Web.Optimization.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\System.Web.Razor.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\System.Web.WebPages.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\Antlr3.Runtime.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\obj\Debug\30Code.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\obj\Debug\_30Code.Migrations.CriacaoBanco.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\obj\Debug\30Code.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\obj\Debug\30Code.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\obj\Debug\30Code.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\obj\Debug\30Code.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ProjetoPI\Rossini\30Code\obj\Debug\30Code.pdb
