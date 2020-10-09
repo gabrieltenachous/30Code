@@ -1,4 +1,4 @@
-﻿@model _30Code.Models.Usuario
+﻿@model _30Code.Models.Login
 
 @{
     ViewBag.Title = "Create";
@@ -27,17 +27,17 @@
 
 <div class="row">
     <div class="col-5">
-        @using (Html.BeginForm())
+        @using (Html.BeginForm("Acesso", "Usuarios", FormMethod.Post))
         {
             @Html.AntiForgeryToken()
-            <h3 class="text-center">Login</h3>
+            <h4 class="text-center">Já tem uma conta? Faça seu login!</h4>
             <hr />
             @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
             <div class="row">
                 <div class="col-2"></div>
                 <div class="col-10 mt-2">
-                    <label>Usuario ou Email</label>
+                    <label>Email</label>
                 </div>
             </div>
 
@@ -46,8 +46,8 @@
                     <img src="../Icons/iconeUsuario.png" />
                 </div>
                 <div class="col-10">
-                    @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+                    @Html.EditorFor(model => model.Acesso.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Acesso.Email, "", new { @class = "text-danger" })
                 </div>
             </div>
 
@@ -63,8 +63,8 @@
                     <img src="../Icons/password.png" />
                 </div>
                 <div class="col-10">
-                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    @Html.EditorFor(model => model.Acesso.Senha, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Acesso.Senha, "", new { @class = "text-danger" })
                 </div>
             </div>
 
@@ -95,54 +95,54 @@
         {
             @Html.AntiForgeryToken()
 
-            <h3 class="text-center">Cadastrar</h3>
+            <h4 class="text-center">Cadastrar</h4>
             <hr />
             @Html.ValidationSummary(true, "", new { @class = "text-danger" })
             <div class="row">
                 <div class="col-12 mt-2">
-                    @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "col-md-12" })
+                    @Html.LabelFor(model => model.Cadastro.Nome, htmlAttributes: new { @class = "col-md-12" })
                 </div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+                    @Html.EditorFor(model => model.Cadastro.Nome, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Cadastro.Nome, "", new { @class = "text-danger" })
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-12 mt-3">
-                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "col-md-12" })
+                    @Html.LabelFor(model => model.Cadastro.Email, htmlAttributes: new { @class = "col-md-12" })
                 </div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    @Html.EditorFor(model => model.Cadastro.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Cadastro.Email, "", new { @class = "text-danger" })
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-12 mt-3">
-                    @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "col-md-12" })
+                    @Html.LabelFor(model => model.Cadastro.Senha, htmlAttributes: new { @class = "col-md-12" })
                 </div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                    @Html.EditorFor(model => model.Cadastro.Senha, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Cadastro.Senha, "", new { @class = "text-danger" })
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-12 mt-3">
-                    @Html.LabelFor(model => model.ConfirmaSenha, htmlAttributes: new { @class = "col-md-12" })
+                    @Html.LabelFor(model => model.Cadastro.ConfirmaSenha, htmlAttributes: new { @class = "col-md-12" })
                 </div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    @Html.EditorFor(model => model.ConfirmaSenha, new { htmlAttributes = new { @class = "form-control" } })
-                    @Html.ValidationMessageFor(model => model.ConfirmaSenha, "", new { @class = "text-danger" })
+                    @Html.EditorFor(model => model.Cadastro.ConfirmaSenha, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Cadastro.ConfirmaSenha, "", new { @class = "text-danger" })
                 </div>
             </div>
             <div class="row">

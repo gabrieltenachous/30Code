@@ -140,16 +140,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202010061329102_CriacaoBanco.cs" />
-    <Compile Include="Migrations\202010061329102_CriacaoBanco.Designer.cs">
-      <DependentUpon>202010061329102_CriacaoBanco.cs</DependentUpon>
+    <Compile Include="Migrations\202010080013387_Banco.cs" />
+    <Compile Include="Migrations\202010080013387_Banco.designer.cs">
+      <DependentUpon>202010080013387_Banco.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Contexto.cs" />
     <Compile Include="Models\Funcoes.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Models\VMUsuario.cs" />
-    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -258,11 +257,11 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Icons\direita.png" />
+    <Content Include="Icons\esquerda.png" />
     <Content Include="Icons\iconeUsuario.png" />
     <Content Include="Icons\password.png" />
-    <Content Include="obj\Debug\30Code.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\30Code.dll" />
-    <Content Include="obj\Debug\30Code.pdb" />
+    <Content Include="Images\IMG_20181110_093357.jpg" />
     <Content Include="packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll" />
     <Content Include="packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.pdb" />
     <Content Include="packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.css" />
@@ -425,12 +424,6 @@
     <Content Include="bin\roslyn\vbc.exe.config" />
     <Content Include="bin\roslyn\vbc.rsp" />
     <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
-    <Content Include="obj\Debug\30Code.csproj.CopyComplete" />
-    <Content Include="obj\Debug\30Code.csproj.CoreCompileInputs.cache" />
-    <Content Include="obj\Debug\30Code.csproj.GenerateResource.cache" />
-    <Content Include="obj\Debug\30Code.csprojAssemblyReference.cache" />
-    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <Content Include="obj\Debug\Tsc.out" />
     <Content Include="packages\Antlr.3.5.0.2\.signature.p7s" />
     <Content Include="packages\Antlr.3.5.0.2\Antlr.3.5.0.2.nupkg" />
     <Content Include="packages\bootstrap.3.4.1\.signature.p7s" />
@@ -554,11 +547,9 @@
     <Content Include="Views\Usuarios\Edit.cshtml" />
     <Content Include="Views\Usuarios\Index.cshtml" />
     <Content Include="Views\Usuarios\Historico.cshtml" />
-    <Content Include="Views\Usuarios\Acesso.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.min.css.map" />
@@ -566,10 +557,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202010061329102_CriacaoBanco.resx">
-      <DependentUpon>202010061329102_CriacaoBanco.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202010080013387_Banco.resx">
+      <DependentUpon>202010080013387_Banco.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="obj\Debug\_30Code.Migrations.CriacaoBanco.resources" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

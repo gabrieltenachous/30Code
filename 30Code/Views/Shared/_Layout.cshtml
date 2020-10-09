@@ -1,4 +1,6 @@
 ﻿<!DOCTYPE html>
+@*@model _30Code.Models.Usuario*@
+
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -9,37 +11,66 @@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
-    <div class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
+    <style>
+        .login {
+            margin-bottom: 5px;
+        }
+
+        .dropdown-menu {
+            width: 300px !important;
+        }
+    </style>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
             @Html.ActionLink("Nome do aplicativo", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="navbar-collapse collapse">
-                <ul class="navbar-nav">
-                    <li class="nav-item">@Html.ActionLink("Início", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">@Html.ActionLink("Início", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+
                     <li class="nav-item">@Html.ActionLink("Sobre", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li class="nav-item">@Html.ActionLink("Login", "Acesso", "Usuarios", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li class="nav-item">@Html.ActionLink("Cadastrar", "Create", "Usuarios", new { area = "" }, new { @class = "nav-link" })</li>
+
                     <li class="nav-item">@Html.ActionLink("Historico", "Historico", "Usuarios", new { area = "" }, new { @class = "nav-link" })</li>
+
                 </ul>
-                <ul class="nav navbar-nav navbar-right bg-white">
+                <ul class="navbar-nav mr-right">
                     @if (User.Identity.IsAuthenticated)
                     {
-                        <li>
-
-                            @User.Identity.Name - @Html.ActionLink("Sair", "Sair", "Usuarios")
-                        </li>
+                        <li class="nav-item">@Html.ActionLink(User.Identity.Name + " - Sair", "Sair", "Usuarios", new { area = "" }, new { @class = "nav-link" })</li>
                     }
                     else
                     {
-                        <li>@Html.ActionLink("Cadastro", "Create", "Usuarios")</li>
-                        <li>@Html.ActionLink("Cadastro", "Create", "Usuarios")</li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Login
+                            </a>
+                            <div class="dropdown-menu p-3">
+                                <div class="container">
+                                    @*@Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control login" } })
+                                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+                                        @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-control login" } })
+                                        @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })*@
+
+                                    <input class="btn btn-primary" type="submit" value="Login">
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item">@Html.ActionLink("Cadastrar", "Create", "Usuarios", new { area = "" }, new { @class = "nav-link" })</li>
                     }
                 </ul>
             </div>
         </div>
-    </div>
+    </nav>
+
+
+
+
+
+
     <div class="container body-content">
         @RenderBody()
         <hr />
