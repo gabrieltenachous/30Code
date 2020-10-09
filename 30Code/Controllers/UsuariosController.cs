@@ -55,10 +55,10 @@ namespace _30Code.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Acesso(Login login, string ReturnUrl)
         {
-
+            string senhacrip = Funcoes.HashTexto(login.Cadastro.Senha, "SHA512");
             if (ModelState.IsValid)
             {
-                Usuario usu = db.Usuario.Where(t => t.Email == login.Acesso.Email && t.Senha == login.Acesso.Senha).ToList().FirstOrDefault();
+                Usuario usu = db.Usuario.Where(t => t.Email == login.Acesso.Email && t.Senha == senhacrip).ToList().FirstOrDefault();
                 if (usu != null)
                 {
                     FormsAuthentication.SetAuthCookie(usu.Nome, false);
@@ -90,7 +90,7 @@ namespace _30Code.Controllers
                 Usuario usu = new Usuario();
                 usu.Nome = login.Cadastro.Nome;
                 usu.Email = login.Cadastro.Email;
-                usu.Senha = login.Cadastro.Senha;
+                usu.Senha = Funcoes.HashTexto(login.Cadastro.Senha, "SHA512");
                 usu.TiposUsuarios = Usuario.TipoUsuario.Comum;
 
 
