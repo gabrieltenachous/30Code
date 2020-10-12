@@ -1,0 +1,34 @@
+﻿@model _30Code.Models.Usuario_has_curso
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Usuario_has_curso</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Curso.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Curso.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Usuario.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Usuario.Nome)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

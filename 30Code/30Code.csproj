@@ -135,19 +135,25 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CursoesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ModuloesController.cs" />
     <Compile Include="Controllers\UsuariosController.cs" />
+    <Compile Include="Controllers\Usuario_has_cursoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202010080013387_Banco.cs" />
-    <Compile Include="Migrations\202010080013387_Banco.designer.cs">
-      <DependentUpon>202010080013387_Banco.cs</DependentUpon>
+    <Compile Include="Migrations\202010092147082_Banco.cs" />
+    <Compile Include="Migrations\202010092147082_Banco.designer.cs">
+      <DependentUpon>202010092147082_Banco.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Contexto.cs" />
+    <Compile Include="Models\Curso.cs" />
     <Compile Include="Models\Funcoes.cs" />
+    <Compile Include="Models\Modulo.cs" />
     <Compile Include="Models\Usuario.cs" />
+    <Compile Include="Models\Usuario_has_curso.cs" />
     <Compile Include="Models\VMUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -261,6 +267,7 @@
     <Content Include="Icons\esquerda.png" />
     <Content Include="Icons\iconeUsuario.png" />
     <Content Include="Icons\password.png" />
+    <Content Include="Images\icon-plus.PNG" />
     <Content Include="Images\IMG_20181110_093357.jpg" />
     <Content Include="packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll" />
     <Content Include="packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.pdb" />
@@ -547,6 +554,23 @@
     <Content Include="Views\Usuarios\Edit.cshtml" />
     <Content Include="Views\Usuarios\Index.cshtml" />
     <Content Include="Views\Usuarios\Historico.cshtml" />
+    <Content Include="Views\Cursoes\Create.cshtml" />
+    <Content Include="Views\Cursoes\Delete.cshtml" />
+    <Content Include="Views\Cursoes\Details.cshtml" />
+    <Content Include="Views\Cursoes\Edit.cshtml" />
+    <Content Include="Views\Cursoes\Index.cshtml" />
+    <Content Include="Views\Moduloes\Create.cshtml" />
+    <Content Include="Views\Moduloes\Delete.cshtml" />
+    <Content Include="Views\Moduloes\Details.cshtml" />
+    <Content Include="Views\Moduloes\Edit.cshtml" />
+    <Content Include="Views\Moduloes\Index.cshtml" />
+    <Content Include="Views\Usuario_has_curso\Create.cshtml" />
+    <Content Include="Views\Usuario_has_curso\Delete.cshtml" />
+    <Content Include="Views\Usuario_has_curso\Details.cshtml" />
+    <Content Include="Views\Usuario_has_curso\Edit.cshtml" />
+    <Content Include="Views\Usuario_has_curso\Index.cshtml" />
+    <Content Include="Views\Cursoes\Cursos.cshtml" />
+    <Content Include="Views\Cursoes\Aula.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -557,8 +581,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202010080013387_Banco.resx">
-      <DependentUpon>202010080013387_Banco.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202010092147082_Banco.resx">
+      <DependentUpon>202010092147082_Banco.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

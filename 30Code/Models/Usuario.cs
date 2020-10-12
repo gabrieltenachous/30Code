@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace _30Code.Models
@@ -18,7 +19,6 @@ namespace _30Code.Models
         public string Email { get; set; }
 
         [Required]
-        [DataType(DataType.Password)]
         public string Senha { get; set; }
 
         [Display(Name = "Celular")]
@@ -43,9 +43,11 @@ namespace _30Code.Models
         }
         public enum Sexo
         {
-            Masculino = 0,
-            Feminino = 1,
-            NãoRevelar = 2
+            NãoRevelar = 0,
+            Masculino = 1,
+            Feminino = 2
         }
+        public virtual ICollection<Usuario_has_curso> UsuarioPerfil { get; set; }
+
     }
 }

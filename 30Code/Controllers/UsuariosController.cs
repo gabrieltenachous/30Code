@@ -55,7 +55,7 @@ namespace _30Code.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Acesso(Login login, string ReturnUrl)
         {
-            string senhacrip = Funcoes.HashTexto(login.Cadastro.Senha, "SHA512");
+            string senhacrip = Funcoes.HashTexto(login.Acesso.Senha, "SHA512");
             if (ModelState.IsValid)
             {
                 Usuario usu = db.Usuario.Where(t => t.Email == login.Acesso.Email && t.Senha == senhacrip).ToList().FirstOrDefault();
@@ -96,6 +96,7 @@ namespace _30Code.Controllers
 
                 db.Usuario.Add(usu);
                 db.SaveChanges();
+                FormsAuthentication.SetAuthCookie(usu.Nome, false);
                 return RedirectToAction("Index");
             }
             return View(login);
